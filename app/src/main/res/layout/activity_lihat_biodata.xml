@@ -96,7 +96,7 @@
             android:layout_alignBaseline="@+id/textView3"
             android:layout_alignStart="@+id/TextView02"
             android:layout_alignBottom="@+id/textView3"
-            android:text="Tanggal Lahir" />
+            android:text="No HP" />
 
         <TextView
             android:id="@+id/TextView02"
